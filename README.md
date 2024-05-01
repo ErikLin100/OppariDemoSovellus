@@ -16,3 +16,4 @@ Tämän sovelluksen tarkoituksena on esitellä, miten toteuttaa turvallinen käy
 
 - React: JavaScript-kirjasto käyttöliittymien rakentamiseen.
 - Firebase: Alusta web- ja mobiilisovellusten rakentamiseen ilman palvelinten hallintaa.
+- Vite: Rakennustyökalu web-kehitykseen.
