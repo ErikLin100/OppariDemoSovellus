@@ -1,18 +1,18 @@
-# React Firebase Todo App
+# React Firebase Tehtäväsovellus
 
-This project is a demonstration of best practices around user authentication and database security using React and Firebase.
+Tämä projekti on esimerkki parhaista käytännöistä käyttäjän todennuksessa ja tietokannan turvallisuudessa käyttäen Reactia ja Firebaseä.
 
-## Purpose
+## Tarkoitus
 
-The purpose of this application is to showcase how to implement secure user authentication and database operations in a React application using Firebase services. By following best practices, developers can ensure that user data remains protected and the application is resilient to common security vulnerabilities.
+Tämän sovelluksen tarkoituksena on esitellä, miten toteuttaa turvallinen käyttäjän todennus ja tietokantatoiminnot React-sovelluksessa käyttäen Firebase-palveluita. Parhaita käytäntöjä noudattamalla kehittäjät voivat varmistaa, että käyttäjän tiedot pysyvät suojattuina ja sovellus on vahva yleisimpiä tietoturvariskejä vastaan.
 
-## Features
+## Toiminnot
 
-- User authentication using Firebase Authentication.
-- Real-time data synchronization using Firestore database.
-- Add, update, and delete todo items securely.
+- Käyttäjän todennus Firebase Authentication -palvelun avulla.
+- Tietojen reaaliaikainen synkronointi Firestore-tietokannan kanssa.
+- Tehtävien lisääminen, päivittäminen ja poistaminen turvallisesti.
 
-## Technologies Used
+## Käytetyt Teknologiat
 
-- React: A JavaScript library for building user interfaces.
-- Firebase: A platform for building web and mobile applications without managing servers.
+- React: JavaScript-kirjasto käyttöliittymien rakentamiseen.
+- Firebase: Alusta web- ja mobiilisovellusten rakentamiseen ilman palvelinten hallintaa.
